@@ -18,3 +18,8 @@ Multi-Axis Graphical Analytics: Native rendering arrays featuring a Category All
 One-Click CSV Handoffs: Maintain absolute data ownership. Download filtered transaction ledgers locally for direct integration with Excel or Google Sheets.
 
 Enterprise Security Standards: Comprehensive database query sanitization, float validation, and robust WordPress Nonce verification.
+
+🤝 Support & Custom Solutions
+Need advanced automation features, custom bank feed integration, or multi-role management models built explicitly for your team workflow?
+
+Explore professional setups and premium adjustments at ramerlabs.com.
